@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Pramod Mulagala<br>I am a Data Engineer with 2+ years of experience in building scalable data pipelines, cloud infrastructure, and backend systems. I have a strong background in Python, SQL, and cloud platforms (AWS, Azure, GCP) and specialize in data engineering, automation, and distributed computing.<br><br>Previously, I worked at Comcast, where I contributed to infrastructure development on AWS. I am currently working on a data engineering project leveraging Airflow, GCP, Snowflake, Kafka, dbt, Spark, and Terraform.
+Hi there! 👋 I'm Pramod Mulagala<br>I am a Data Engineer with 3+ years of experience in building scalable data pipelines, cloud infrastructure, and backend systems. I have a strong background in Python, SQL, and cloud platforms (AWS, Azure, GCP) and specialize in data engineering, automation, and distributed computing.<br><br>Previously, I worked at Comcast, where I contributed to infrastructure development on AWS. I am currently working on a data engineering project leveraging Airflow, GCP, Snowflake, Kafka, dbt, Spark, and Terraform.
 
 
 ## 🌐 Socials:
